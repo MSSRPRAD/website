@@ -5,6 +5,7 @@ export default function Home() {
       <div class='Home bg-inherit'>
             <div class='p-10'>
                 <h1 class='text-6xl text-center mb-10 font-bold'>Welcome!</h1>
+                <hr class='border-solid border-black py-10'></hr>
                 <p class='text-2xl p-10'>This is my personal website which I will try to maintain regularly. I will be posting some blog articles over the next few months here and share some parts of my work and life.</p>
                 <h1></h1>
                 <p class='text-2xl p-10'>As for <strong>why</strong> have a personal website, I have thought about it and :</p>
