@@ -6,21 +6,21 @@ import { ImMail } from 'solid-icons/im'
 export default function Contact() {
   return (
     <div className='Home bg-inherit'>
-            <div className='h-full w-full p-10'>
+            <div className='p-10'>
                 <h1 className="text-6xl text-center mb-10 font-bold">Contact Me?</h1>
                 <hr class='border-solid border-black py-10'></hr>
-                <div className="p-10 flex flex-col items-center justify-center">
-                    <div className="m-5 flex flex-col p-10 justify-center">
+                <div className="p-10 flex items-center overflow-scroll">
+                    <div className="p-5">
                         <a href="https://www.linkedin.com/in/malladi-pradyumna" className="flex items-center mx-10 py-5 text-4xl h-24">
-                        <FaBrandsLinkedin className="h-fit w-fit px-5" />
+                        <FaBrandsLinkedin className="h-fit w-fit" />
                         <span className="ml-2 px-10">https://www.linkedin.com/in/malladi-pradyumna</span>
                         </a>
                         <a href="https://github.com/MSSRPRAD" className="flex items-center mx-10 py-5 text-4xl h-24">
-                        <AiFillGithub className="h-fit w-fit px-5" />
+                        <AiFillGithub className="h-fit w-fit" />
                         <span className="ml-2 px-10">https://github.com/MSSRPRAD</span>
                         </a>
                         <a href="mailto:f20210367@hyderabad.bits-pilani.ac.in" className="flex items-center mx-10 py-5 text-4xl h-24">
-                        <ImMail className="h-fit w-fit px-5" />
+                        <ImMail className="h-fit w-fit" />
                         <span className="ml-2 px-10">f20210367@hyderabad.bits-pilani.ac.in</span>
                         </a>
                     </div>

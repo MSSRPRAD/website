@@ -5,7 +5,7 @@ export default function About() {
         <h1 className='text-6xl text-center mb-10 font-bold'>About Myself!</h1>
         <hr class='border-solid border-black py-10'></hr>
         <div className='flex justify-center items-center'>
-        <img src="src/assets/pradyumna.jpeg" alt="Profile" className='sm:h-3/5 sm:w-4/5 lg:h-1/5 lg:w-2/5 rounded-full pb-10' />    
+        <img src="https://github.com/MSSRPRAD/website/blob/main/src/assets/pradyumna.jpeg?raw=true" alt="Profile" className='sm:h-3/5 sm:w-4/5 lg:h-1/5 lg:w-2/5 rounded-full pb-10' />    
         </div>
         <p class='text-2xl px-10'>I am Pradyumna, a third year undergraduate computer science student studying in the
             Birla Institute of Science and Technology in Hyderabad, India. I wish
