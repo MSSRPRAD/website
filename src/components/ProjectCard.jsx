@@ -4,10 +4,10 @@ export default function NavBar(props) {
         <div className="p-4">
           <h3 className="text-2xl text-center font-semibold text-stone-100">{props.name}</h3>
           <p className="text-stone-300 pt-2 text-xl">{props.description}</p>
-          <p className="text-2xl text-center font-semibold text-white pt-5">Tech Stack:</p>
+          <p className="text-2xl text-center font-semibold text-white pt-5">Tech Stack</p>
           <ul className="list-disc text-xl italic px-5 py-5">
             {props.techStack.map((tech) => (
-                <li key={tech} className='text-xl text-stone-100'>{tech}</li>
+                <li key={tech} className='text-xl text-stone-200'>{tech}</li>
             ))}
           </ul>
           <div className="flex flex-wrap justify-center mt-4">
