@@ -1,24 +1,26 @@
 {
   "src/entry-client.css": {
-    "file": "assets/entry-client-62fa6715.css",
+    "file": "assets/entry-client-d2f02cb2.css",
     "src": "src/entry-client.css"
   },
   "src/entry-client.jsx": {
     "css": [
-      "assets/entry-client-62fa6715.css"
+      "assets/entry-client-d2f02cb2.css"
     ],
     "dynamicImports": [
       "src/routes/[...404].jsx",
       "src/routes/about.jsx",
+      "src/routes/blog.jsx",
       "src/routes/contact.jsx",
-      "src/routes/index.jsx"
+      "src/routes/index.jsx",
+      "src/routes/projects.jsx"
     ],
-    "file": "assets/entry-client-b3e785f8.js",
+    "file": "assets/entry-client-9186cabc.js",
     "isEntry": true,
     "src": "src/entry-client.jsx"
   },
   "src/routes/[...404].jsx": {
-    "file": "assets/_...404_-1ac02fb3.js",
+    "file": "assets/_...404_-3b294709.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -26,15 +28,23 @@
     "src": "src/routes/[...404].jsx"
   },
   "src/routes/about.jsx": {
-    "file": "assets/about-700eb38b.js",
+    "file": "assets/about-ba2c76d6.js",
     "imports": [
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/about.jsx"
   },
+  "src/routes/blog.jsx": {
+    "file": "assets/blog-9ec288a8.js",
+    "imports": [
+      "src/entry-client.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/blog.jsx"
+  },
   "src/routes/contact.jsx": {
-    "file": "assets/contact-a712fa48.js",
+    "file": "assets/contact-e1919f18.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -42,11 +52,19 @@
     "src": "src/routes/contact.jsx"
   },
   "src/routes/index.jsx": {
-    "file": "assets/index-aab80e14.js",
+    "file": "assets/index-aca81129.js",
     "imports": [
       "src/entry-client.jsx"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/index.jsx"
+  },
+  "src/routes/projects.jsx": {
+    "file": "assets/projects-c523135d.js",
+    "imports": [
+      "src/entry-client.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/projects.jsx"
   }
 }
