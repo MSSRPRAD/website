@@ -1,0 +1,1 @@
+import{g as t,t as e}from"./entry-client-8112c2a9.js";const o=e('<div><div class="text-6xl text-center mb-10 font-bold pt-10">todo!(blog)</div><hr class="border-solid border-black py-10">');function r(){return t(o)}export{r as default};

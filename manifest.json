@@ -1,11 +1,11 @@
 {
   "src/entry-client.css": {
-    "file": "assets/entry-client-9ee3d01e.css",
+    "file": "assets/entry-client-3e44721d.css",
     "src": "src/entry-client.css"
   },
   "src/entry-client.jsx": {
     "css": [
-      "assets/entry-client-9ee3d01e.css"
+      "assets/entry-client-3e44721d.css"
     ],
     "dynamicImports": [
       "src/routes/[...404].jsx",
@@ -15,12 +15,12 @@
       "src/routes/index.jsx",
       "src/routes/projects.jsx"
     ],
-    "file": "assets/entry-client-26585571.js",
+    "file": "assets/entry-client-8112c2a9.js",
     "isEntry": true,
     "src": "src/entry-client.jsx"
   },
   "src/routes/[...404].jsx": {
-    "file": "assets/_...404_-34112ea3.js",
+    "file": "assets/_...404_-d814db0d.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -28,7 +28,7 @@
     "src": "src/routes/[...404].jsx"
   },
   "src/routes/about.jsx": {
-    "file": "assets/about-34952546.js",
+    "file": "assets/about-625af65e.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -36,7 +36,7 @@
     "src": "src/routes/about.jsx"
   },
   "src/routes/blog.jsx": {
-    "file": "assets/blog-294face5.js",
+    "file": "assets/blog-cc0ab130.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -44,7 +44,7 @@
     "src": "src/routes/blog.jsx"
   },
   "src/routes/contact.jsx": {
-    "file": "assets/contact-ae4a30c5.js",
+    "file": "assets/contact-8db9d7aa.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -52,7 +52,7 @@
     "src": "src/routes/contact.jsx"
   },
   "src/routes/index.jsx": {
-    "file": "assets/index-d5fed917.js",
+    "file": "assets/index-a664b102.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -60,7 +60,7 @@
     "src": "src/routes/index.jsx"
   },
   "src/routes/projects.jsx": {
-    "file": "assets/projects-a4a12eb9.js",
+    "file": "assets/projects-a0f090c0.js",
     "imports": [
       "src/entry-client.jsx"
     ],
