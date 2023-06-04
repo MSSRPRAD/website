@@ -13,9 +13,18 @@
   ],
   "node_modules/@solidjs/router/dist/utils.js": [
   ],
+  "node_modules/solid-icons/ai/index.js": [
+    "/website/assets/contact-a712fa48.js"
+  ],
   "node_modules/solid-icons/bs/index.js": [
   ],
   "node_modules/solid-icons/cg/index.js": [
+  ],
+  "node_modules/solid-icons/fa/index.js": [
+    "/website/assets/contact-a712fa48.js"
+  ],
+  "node_modules/solid-icons/im/index.js": [
+    "/website/assets/contact-a712fa48.js"
   ],
   "node_modules/solid-icons/lib/index.js": [
   ],
@@ -56,12 +65,15 @@
   "src/root.jsx": [
   ],
   "src/routes/[...404].jsx": [
-    "/website/assets/_...404_-f98e1b7a.js"
+    "/website/assets/_...404_-1ac02fb3.js"
   ],
   "src/routes/about.jsx": [
-    "/website/assets/about-a31d3a2e.js"
+    "/website/assets/about-700eb38b.js"
+  ],
+  "src/routes/contact.jsx": [
+    "/website/assets/contact-a712fa48.js"
   ],
   "src/routes/index.jsx": [
-    "/website/assets/index-d85816d8.js"
+    "/website/assets/index-aab80e14.js"
   ]
 }
