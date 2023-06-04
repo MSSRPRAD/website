@@ -6,8 +6,9 @@ import { ImMail } from 'solid-icons/im'
 export default function Contact() {
   return (
     <div className='Home bg-inherit'>
-            <div className='h-full w-full'>
-                <h1 className="text-6xl text-center m-10 p-5">Contact Me?</h1>
+            <div className='h-full w-full p-10'>
+                <h1 className="text-6xl text-center mb-10 font-bold">Contact Me?</h1>
+                <hr class='border-solid border-black py-10'></hr>
                 <div className="p-10 flex flex-col items-center justify-center">
                     <div className="m-5 flex flex-col p-10 justify-center">
                         <a href="https://www.linkedin.com/in/malladi-pradyumna" className="flex items-center mx-10 py-5 text-4xl h-24">

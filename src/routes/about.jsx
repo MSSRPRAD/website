@@ -1,5 +1,3 @@
-import { A } from "solid-start";
-import Counter from "~/components/Counter";
 export default function About() {
   return (
     <main class="bg-inherit">
@@ -17,8 +15,8 @@ export default function About() {
             also (unwillingly) learning a bit of DSA and Javascript on the side.
         </p>
         <h1></h1>
-        <p class='text-2xl px-10'>Interests (in no particular order):</p>
-        <ul className="list-disc text-2xl py-5 px-20">
+        <p class='text-2xl px-10 pt-10'>Interests (in no particular order):</p>
+        <ul className="list-disc text-xl italic py-5 px-20">
             <li>Machine Learning</li>
             <li>Modern Fullstack Web Development</li>
             <li>Linux</li>
@@ -27,7 +25,7 @@ export default function About() {
         </ul>
         <br></br>
         <p class='text-2xl px-10'>Some relevant courses that I have pursued in my college:</p>
-        <ul className="list-disc text-2xl py-5 px-20">
+        <ul className="list-disc text-xl italic py-5 px-20">
             <li>Machine Learning</li>
             <li>Data Structures and Algorithms</li>
         </ul>
