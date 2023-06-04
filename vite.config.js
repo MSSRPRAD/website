@@ -1,9 +1,9 @@
 import solid from "solid-start/vite";
-import staticAdapter from "solid-start-static";
+import solidStatic from "solid-start-static";
 import { defineConfig } from "vite";
 
 export default defineConfig({
   base: "/website/",
   // insert your github project name between slashes above
-  plugins: [solid({ adapter: staticAdapter() })],
+  plugins: [solid({ adapter: solidStatic() })],
 });
