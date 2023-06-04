@@ -1,23 +1,23 @@
 {
   "src/entry-client.css": {
-    "file": "assets/entry-client-04c745b7.css",
+    "file": "assets/entry-client-25301837.css",
     "src": "src/entry-client.css"
   },
   "src/entry-client.jsx": {
     "css": [
-      "assets/entry-client-04c745b7.css"
+      "assets/entry-client-25301837.css"
     ],
     "dynamicImports": [
       "src/routes/[...404].jsx",
       "src/routes/about.jsx",
       "src/routes/index.jsx"
     ],
-    "file": "assets/entry-client-a7c66f7e.js",
+    "file": "assets/entry-client-cefc4a52.js",
     "isEntry": true,
     "src": "src/entry-client.jsx"
   },
   "src/routes/[...404].jsx": {
-    "file": "assets/_...404_-a34b6c28.js",
+    "file": "assets/_...404_-f98e1b7a.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -25,7 +25,7 @@
     "src": "src/routes/[...404].jsx"
   },
   "src/routes/about.jsx": {
-    "file": "assets/about-347638a6.js",
+    "file": "assets/about-a31d3a2e.js",
     "imports": [
       "src/entry-client.jsx"
     ],
@@ -33,7 +33,7 @@
     "src": "src/routes/about.jsx"
   },
   "src/routes/index.jsx": {
-    "file": "assets/index-aea8ec39.js",
+    "file": "assets/index-d85816d8.js",
     "imports": [
       "src/entry-client.jsx"
     ],

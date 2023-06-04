@@ -13,8 +13,6 @@
   ],
   "node_modules/@solidjs/router/dist/utils.js": [
   ],
-  "node_modules/solid-icons/ai/index.js": [
-  ],
   "node_modules/solid-icons/bs/index.js": [
   ],
   "node_modules/solid-icons/cg/index.js": [
@@ -47,9 +45,6 @@
   ],
   "node_modules/solid-start/server/types.tsx": [
   ],
-  "src/components/Counter.jsx": [
-    "/website/assets/about-347638a6.js"
-  ],
   "src/components/Header.jsx": [
   ],
   "src/components/NavBar.jsx": [
@@ -61,12 +56,12 @@
   "src/root.jsx": [
   ],
   "src/routes/[...404].jsx": [
-    "/website/assets/_...404_-a34b6c28.js"
+    "/website/assets/_...404_-f98e1b7a.js"
   ],
   "src/routes/about.jsx": [
-    "/website/assets/about-347638a6.js"
+    "/website/assets/about-a31d3a2e.js"
   ],
   "src/routes/index.jsx": [
-    "/website/assets/index-aea8ec39.js"
+    "/website/assets/index-d85816d8.js"
   ]
 }
