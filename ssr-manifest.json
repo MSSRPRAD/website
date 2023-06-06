@@ -14,21 +14,21 @@
   "node_modules/@solidjs/router/dist/utils.js": [
   ],
   "node_modules/solid-icons/ai/index.js": [
-    "/website/assets/contact-8db9d7aa.js"
+    "/website/assets/contact-7cce811c.js"
   ],
   "node_modules/solid-icons/bs/index.js": [
   ],
   "node_modules/solid-icons/cg/index.js": [
   ],
   "node_modules/solid-icons/fa/index.js": [
-    "/website/assets/contact-8db9d7aa.js"
+    "/website/assets/contact-7cce811c.js"
   ],
   "node_modules/solid-icons/im/index.js": [
-    "/website/assets/contact-8db9d7aa.js"
+    "/website/assets/contact-7cce811c.js"
   ],
   "node_modules/solid-icons/lib/index.js": [
   ],
-  "node_modules/solid-icons/ri/index.js": [
+  "node_modules/solid-icons/tb/index.js": [
   ],
   "node_modules/solid-icons/vs/index.js": [
   ],
@@ -59,7 +59,7 @@
   "src/components/NavBar.jsx": [
   ],
   "src/components/ProjectCard.jsx": [
-    "/website/assets/projects-a0f090c0.js"
+    "/website/assets/projects-23b5d2d5.js"
   ],
   "src/entry-client.jsx": [
   ],
@@ -68,21 +68,21 @@
   "src/root.jsx": [
   ],
   "src/routes/[...404].jsx": [
-    "/website/assets/_...404_-d814db0d.js"
+    "/website/assets/_...404_-16d96c37.js"
   ],
   "src/routes/about.jsx": [
-    "/website/assets/about-625af65e.js"
+    "/website/assets/about-a65db770.js"
   ],
   "src/routes/blog.jsx": [
-    "/website/assets/blog-cc0ab130.js"
+    "/website/assets/blog-f09ab83a.js"
   ],
   "src/routes/contact.jsx": [
-    "/website/assets/contact-8db9d7aa.js"
+    "/website/assets/contact-7cce811c.js"
   ],
   "src/routes/index.jsx": [
-    "/website/assets/index-a664b102.js"
+    "/website/assets/index-c8a07af2.js"
   ],
   "src/routes/projects.jsx": [
-    "/website/assets/projects-a0f090c0.js"
+    "/website/assets/projects-23b5d2d5.js"
   ]
 }
