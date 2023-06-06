@@ -28,7 +28,7 @@ export default function Root() {
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
-      <Body class="bg-gradient-to-r from-stone-100 to-white">
+      <Body class="bg-gradient-to-r via-stone-100 from-stone-50 to-stone-50">
         <Suspense>
           <ErrorBoundary>
             <Header />

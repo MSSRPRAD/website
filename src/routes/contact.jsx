@@ -13,15 +13,15 @@ export default function Contact() {
                     <div className="p-5">
                         <a href="https://www.linkedin.com/in/malladi-pradyumna" className="flex items-center mx-10 py-5 text-4xl h-24">
                         <FaBrandsLinkedin className="h-fit w-fit" />
-                        <span className="ml-2 px-10">https://www.linkedin.com/in/malladi-pradyumna</span>
+                        <span className="ml-2 px-10 hover:text-orange-800 text-4xl py-5">https://www.linkedin.com/in/malladi-pradyumna</span>
                         </a>
                         <a href="https://github.com/MSSRPRAD" className="flex items-center mx-10 py-5 text-4xl h-24">
                         <AiFillGithub className="h-fit w-fit" />
-                        <span className="ml-2 px-10">https://github.com/MSSRPRAD</span>
+                        <span className="ml-2 px-10 hover:text-orange-800 text-4xl py-5">https://github.com/MSSRPRAD</span>
                         </a>
                         <a href="mailto:f20210367@hyderabad.bits-pilani.ac.in" className="flex items-center mx-10 py-5 text-4xl h-24">
                         <ImMail className="h-fit w-fit" />
-                        <span className="ml-2 px-10">f20210367@hyderabad.bits-pilani.ac.in</span>
+                        <span className="ml-2 px-10 hover:text-orange-800 text-4xl py-5">f20210367@hyderabad.bits-pilani.ac.in</span>
                         </a>
                     </div>
                 </div>

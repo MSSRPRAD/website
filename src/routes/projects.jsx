@@ -3,7 +3,7 @@ import ProjectCard from '../components/ProjectCard';
 export default function About() {
     return (
         <div class = 'bg-inherit p-10'>
-            <h1 className='text-6xl text-center mb-10 font-bold pt-10'>Projects</h1>
+            <h1 className='text-6xl text-center mb-10 font-bold'>Projects</h1>
             <hr class='border-solid border-black py-10'></hr>
             <div className='flex flex-row flex-wrap justify-center'>
                 <ProjectCard name="IndicScriptSwap" description='An application that transliterates text between various Indic and Roman scripts quickly. The program is compiled to wasm for a demo and is available as a Rust Crate' techStack={['Rust', 'Wasm']} githubUrl='https://github.com/MSSRPRAD/IndicScriptSwap' note='None' />
