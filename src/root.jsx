@@ -31,7 +31,9 @@ export default function Root() {
       <Body class="bg-gradient-to-r via-stone-100 from-stone-50 to-stone-50">
         <Suspense>
           <ErrorBoundary>
-            <Header />
+            <div class="sticky top-0 bg-violet-900 border-white border-2">
+              <Header />
+            </div>
             <Routes>
               <FileRoutes />
             </Routes>

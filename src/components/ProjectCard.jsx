@@ -1,6 +1,6 @@
 export default function NavBar(props) {
     return (
-      <div className="bg-current rounded-sm m-5 lg:w-2/5 border-rose-800 hover:border-4">
+      <div className="bg-current rounded-sm m-5 lg:w-2/5 border-teal-500 hover:border-4">
         <div className="p-4">
           <h3 className="text-2xl text-center font-semibold text-stone-100 hover:text-cyan-700">{props.name}</h3>
           <p className="text-stone-300 pt-2 text-xl hover:text-teal-400">{props.description}</p>
